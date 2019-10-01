@@ -12,5 +12,5 @@ Welcome to Making Sure it Works with Jasmine.
 
 ## Testing
 
-Test provided by calcSpec.js.
+Testing is provided by calcSpec.js.
     
